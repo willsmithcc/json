@@ -1,1 +1,31 @@
-{"preferences":{"timer_initial":14400,"paragraph2_text":"If you do not update your computer, prompts to upgrade will become more frequent and difficult to ignore.","cut_off_date_warning":14,"time_between_notifications":14400,"timer_final":120,"random_delay":false,"update_minor_days":14,"no_timer":false,"logo_path":"/Library/nudge/Resources/company_logo.png","paragraph1_text":"A fully up-to-date device is required to ensure that IT can your accurately protect your computer.","update_minor":false,"main_title_text":"macOS Big Sur Upgrade","days_between_notifications":0,"button_sub_titletext":"Click on the button below.","main_subtitle_text":"A friendly reminder from the JESD IT team","timer_day_3":7200,"timer_day_1":600,"local_url_for_upgrade":"jamfselfservice://content?entity=policy&id=889&action=view","cut_off_date":"2021-08-06-18:00","minimum_os_version":"11.0.1","more_info_url":"https://www.apple.com/macos/big-sur/features/","paragraph3_text":"To begin the update, click Update Machine, log in with your district credentials (just the first part of your email address), and follow the provided steps.","paragraph_title_text":"An upgrade to macOS Big Sur is required on your machine.","timer_elapsed":20,"minimum_os_sub_build_version":"20B29","screenshot_path":"/path/to/update_ss.png","button_title_text":"Ready to start the update?"}}
+{
+  "preferences": {
+    "timer_initial": 14400,
+    "paragraph2_text": "If you do not update your computer, prompts to upgrade will become more frequent and difficult to ignore.",
+    "cut_off_date_warning": 14,
+    "time_between_notifications": 14400,
+    "timer_final": 120,
+    "random_delay": false,
+    "update_minor_days": 14,
+    "no_timer": false,
+    "logo_path": "/Library/nudge/Resources/company_logo.png",
+    "paragraph1_text": "A fully up-to-date device is required to ensure that IT can your accurately protect your computer.",
+    "update_minor": false,
+    "main_title_text": "macOS Big Sur Upgrade",
+    "days_between_notifications": 0,
+    "button_sub_titletext": "Click on the button below.",
+    "main_subtitle_text": "A friendly reminder from the JESD IT team",
+    "timer_day_3": 7200,
+    "timer_day_1": 600,
+    "local_url_for_upgrade": "jamfselfservice://content?entity=policy&id=889&action=view",
+    "cut_off_date": "2021-08-06-18:00",
+    "minimum_os_version": "11.0.1",
+    "more_info_url": "https://www.apple.com/macos/big-sur/features/",
+    "paragraph3_text": "To begin the update, click Update Machine, log in with your district credentials (just the first part of your email address), and follow the provided steps.",
+    "paragraph_title_text": "An upgrade to macOS Big Sur is required on your machine.",
+    "timer_elapsed": 20,
+    "minimum_os_sub_build_version": "20B29",
+    "screenshot_path": "/path/to/update_ss.png",
+    "button_title_text": "Ready to start the update?"
+  }
+}
