@@ -2,43 +2,27 @@
   "optionalFeatures": {
     "acceptableApplicationBundleIDs": [
       "us.zoom.xos"
+      "com.microsoft.powerpoint"
     ],
     "aggressiveUserExperience": true,
     "asyncronousSoftwareUpdate": true,
-    "attemptToFetchMajorUpgrade": true,
+    "attemptToFetchMajorUpgrade": false,
     "enforceMinorUpdates": true
   },
   "osVersionRequirements": [
     {
-      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT211896#macos1121",
-      "aboutUpdateURLs": [
-        {
-          "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-us/HT211896#macos1121"
-        },
-        {
-          "_language": "es",
-          "aboutUpdateURL": "https://support.apple.com/es-es/HT211896"
-        },
-        {
-          "_language": "fr",
-          "aboutUpdateURL": "https://support.apple.com/fr-fr/HT211896"
-        },
-        {
-          "_language": "de",
-          "aboutUpdateURL": "https://support.apple.com/de-de/HT211896"
+      "aboutUpdateURL": "https://support.apple.com/en-us/HT211896#macos1121"
         }
       ],
-      "majorUpgradeAppPath": "/Applications/Install macOS Big Sur.app",
-      "requiredInstallationDate": "2021-08-28T00:00:00Z",
-      "requiredMinimumOSVersion": "11.5.2",
+      "requiredInstallationDate": "2021-09-22T00:00:00Z",
+      "requiredMinimumOSVersion": "11.6",
       "targetedOSVersionsRule": "default"
     }
   ],
   "userExperience": {
     "allowUserQuitDeferrals": true,
-    "allowedDeferrals": 1000000,
-    "allowedDeferralsUntilForcedSecondaryQuitButton": 14,
+    "allowedDeferrals": 7,
+    "allowedDeferralsUntilForcedSecondaryQuitButton": 4,
     "approachingRefreshCycle": 6000,
     "approachingWindowTime": 72,
     "elapsedRefreshCycle": 300,
@@ -48,7 +32,7 @@
     "maxRandomDelayInSeconds": 1200,
     "noTimers": false,
     "nudgeRefreshCycle": 60,
-    "randomDelay": false
+    "randomDelay": true
   },
   "userInterface": {
     "actionButtonPath": "munki://updates",
